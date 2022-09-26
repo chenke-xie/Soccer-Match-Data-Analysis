@@ -1,0 +1,1408 @@
+﻿{
+    "field_name": "zijingangWest—2021-03-10",
+    "game_id": "1",
+    "half_time": 45,
+    "half_id": "First",
+    "four_officials_report": {
+      "home": {
+        "home_or_away": "Home",
+        "team_id": null,
+        "team_name": "home_team",
+        "players": [
+          {
+            "name": null,
+            "num": "7",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "6",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "5",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "8",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "0",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "4",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "2",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "3",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "9",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "1",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          }
+        ]
+      },
+      "away": {
+        "home_or_away": "Away",
+        "team_id": null,
+        "team_name": "away_team",
+        "players": [
+          {
+            "name": null,
+            "num": "7",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "10",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "0",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "4",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          },
+          {
+            "name": null,
+            "num": "3",
+            "PlayerID": null,
+            "IsStarting": null,
+            "IsPlayerkeeper": null,
+            "playing_time": null
+          }
+        ]
+      }
+    },
+    "params": {
+      "ch01": {
+        "delta_t": 0.0,
+        "x_range": {
+          "section1": {
+            "pixel_xmin": 0,
+            "pixel_xmax": 1288,
+            "world_xmin": 0.0,
+            "world_xmax": 101.0
+          },
+          "section2": {
+            "pixel_xmin": 1288,
+            "pixel_xmax": 3060,
+            "world_xmin": 0.0,
+            "world_xmax": 101.0
+          },
+          "section3": {
+            "pixel_xmin": 3060,
+            "pixel_xmax": 4110,
+            "world_xmin": 0.0,
+            "world_xmax": 101.0
+          },
+          "section4": {
+            "pixel_xmin": 4110,
+            "pixel_xmax": 5950,
+            "world_xmin": 0.0,
+            "world_xmax": 101.0
+          }
+        },
+        "section": {
+          "section1": {
+            "rotation": {
+              "alpha": -0.32237492033779391,
+              "beta": 0.20058795069004678,
+              "gamma": 0.080861061216894278
+            },
+            "translation": {
+              "tx": -37.321392091213973,
+              "ty": -58.318862615226195,
+              "tz": 34.205388752853743
+            },
+            "intrinsic": {
+              "fx": 1020.0756295233388,
+              "fy": 269.07595244258442,
+              "u": 2818.8532114127934,
+              "v": 802.80048060020943
+            },
+            "distortion": {
+              "k1": 0.056412079136377594,
+              "k2": -0.0035749867415792889,
+              "k3": 9.8528295559805569E-05,
+              "p1": -0.030567033334054396,
+              "p2": 0.049792810016908384
+            }
+          },
+          "section2": {
+            "rotation": {
+              "alpha": -0.41567545160297314,
+              "beta": 0.2191793051596066,
+              "gamma": 0.057972397878305618
+            },
+            "translation": {
+              "tx": -40.831955557692538,
+              "ty": -50.157333131462657,
+              "tz": 47.783529802719265
+            },
+            "intrinsic": {
+              "fx": 1061.2819370092282,
+              "fy": 360.00192751320253,
+              "u": 2713.2810142511339,
+              "v": 640.8432760731572
+            },
+            "distortion": {
+              "k1": 0.022520271477218079,
+              "k2": 0.13553731095065494,
+              "k3": -0.059179186145416229,
+              "p1": 0.035299165802352948,
+              "p2": -0.017227639467028565
+            }
+          },
+          "section3": {
+            "rotation": {
+              "alpha": -0.45774804780570821,
+              "beta": -0.12601140182285256,
+              "gamma": -0.000408745331212287
+            },
+            "translation": {
+              "tx": -53.07942844499852,
+              "ty": -37.506357924963311,
+              "tz": 32.0831635658142
+            },
+            "intrinsic": {
+              "fx": 1173.538323262462,
+              "fy": 273.43475395530032,
+              "u": 3025.5593401823089,
+              "v": 415.24344707727874
+            },
+            "distortion": {
+              "k1": 0.0033017675646218685,
+              "k2": -0.0020459097292553478,
+              "k3": 0.0001731181188671999,
+              "p1": -0.00069752521069445857,
+              "p2": 3.7025940234231054E-05
+            }
+          },
+          "section4": {
+            "rotation": {
+              "alpha": -0.33024075451883655,
+              "beta": -0.20139888726145158,
+              "gamma": -0.22368831221358904
+            },
+            "translation": {
+              "tx": -70.246187784978588,
+              "ty": -43.6474984042669,
+              "tz": 14.214413907491222
+            },
+            "intrinsic": {
+              "fx": 1008.8533266897218,
+              "fy": 346.68040549407147,
+              "u": 3547.9805876643964,
+              "v": 793.21802579343728
+            },
+            "distortion": {
+              "k1": -0.0038011120944113725,
+              "k2": -0.0047218513012333742,
+              "k3": 0.00036361534482456405,
+              "p1": -0.010435312968221507,
+              "p2": 0.0055265005946781758
+            }
+          }
+        }
+      },
+      "ch02": {
+        "delta_t": 0.0,
+        "x_range": {
+          "section1": {
+            "pixel_xmin": 0,
+            "pixel_xmax": 4000,
+            "world_xmin": 0.0,
+            "world_xmax": 101.0
+          }
+        },
+        "section": {
+          "section1": {
+            "rotation": {
+              "alpha": -0.86628055063892417,
+              "beta": 0.405105306206423,
+              "gamma": 0.64787726368187515
+            },
+            "translation": {
+              "tx": -29.18492586582709,
+              "ty": -56.9334943374967,
+              "tz": 132.37954590993928
+            },
+            "intrinsic": {
+              "fx": 4994.3957570005814,
+              "fy": 4346.8236769556152,
+              "u": 1774.6838633374807,
+              "v": 1404.3570722814329
+            },
+            "distortion": {
+              "k1": -0.21923049069952247,
+              "k2": -0.59034121491497327,
+              "k3": 1.3887566458029752,
+              "p1": 0.033697263423233884,
+              "p2": -0.0067001200480177854
+            }
+          }
+        }
+      },
+      "ch03": {
+        "delta_t": 0.0,
+        "x_range": {
+          "section1": {
+            "pixel_xmin": 0,
+            "pixel_xmax": 4000,
+            "world_xmin": 0.0,
+            "world_xmax": 101.0
+          }
+        },
+        "section": {
+          "section1": {
+            "rotation": {
+              "alpha": -0.712200610917836,
+              "beta": 1.2062854696608813,
+              "gamma": 1.8484909589708058
+            },
+            "translation": {
+              "tx": 61.179896118791291,
+              "ty": -17.005954349341788,
+              "tz": 120.20717545936188
+            },
+            "intrinsic": {
+              "fx": 4940.767927300848,
+              "fy": 4565.9973890521087,
+              "u": 2108.2086366371523,
+              "v": 1180.8673567932924
+            },
+            "distortion": {
+              "k1": -0.7306852697095394,
+              "k2": 3.9360825555463759,
+              "k3": -11.131879586880228,
+              "p1": 0.027188235848679524,
+              "p2": -0.0022043403712520568
+            }
+          }
+        }
+      },
+      "ch04": {
+        "delta_t": 0.0,
+        "x_range": {
+          "section1": {
+            "pixel_xmin": 0,
+            "pixel_xmax": 4000,
+            "world_xmin": 0.0,
+            "world_xmax": 101.0
+          }
+        },
+        "section": {
+          "section1": {
+            "rotation": {
+              "alpha": -0.059056869114022859,
+              "beta": -1.5139420309069145,
+              "gamma": -2.6901715314199537
+            },
+            "translation": {
+              "tx": 61.740247107325459,
+              "ty": 5.6497499081124438,
+              "tz": 12.058805710105968
+            },
+            "intrinsic": {
+              "fx": 4142.6715455349795,
+              "fy": 3162.6981147891224,
+              "u": 2098.2315653574378,
+              "v": 1621.4347465991182
+            },
+            "distortion": {
+              "k1": -0.31482196515074184,
+              "k2": 0.11220430601019357,
+              "k3": -0.12560110313692305,
+              "p1": -0.010321557242623684,
+              "p2": -0.0012555552451146115
+            }
+          }
+        }
+      },
+      "ch05": {
+        "delta_t": 0.0,
+        "x_range": {
+          "section1": {
+            "pixel_xmin": 0,
+            "pixel_xmax": 4000,
+            "world_xmin": 0.0,
+            "world_xmax": 101.0
+          }
+        },
+        "section": {
+          "section1": {
+            "rotation": {
+              "alpha": -0.34806152368707965,
+              "beta": 1.5916045774357124,
+              "gamma": 2.3133028894493011
+            },
+            "translation": {
+              "tx": 50.243037924391039,
+              "ty": -0.51377410914533728,
+              "tz": 37.433695109240567
+            },
+            "intrinsic": {
+              "fx": 4902.8563245035093,
+              "fy": 3859.2317665672085,
+              "u": 1018.5928617837785,
+              "v": 1253.9844072823237
+            },
+            "distortion": {
+              "k1": -0.43251372450248021,
+              "k2": 0.075243360882441865,
+              "k3": 0.24330045467464489,
+              "p1": 0.00449119423243491,
+              "p2": 0.013987995669138758
+            }
+          }
+        }
+      },
+      "ch06": {
+        "delta_t": 0.0,
+        "x_range": {
+          "section1": {
+            "pixel_xmin": 0,
+            "pixel_xmax": 4000,
+            "world_xmin": 0.0,
+            "world_xmax": 101.0
+          }
+        },
+        "section": {
+          "section1": {
+            "rotation": {
+              "alpha": -0.64042747832436953,
+              "beta": -1.2489197275595179,
+              "gamma": -1.9077358367961461
+            },
+            "translation": {
+              "tx": -9.3969544055067828,
+              "ty": 8.2971049084203727,
+              "tz": 38.102259195866267
+            },
+            "intrinsic": {
+              "fx": 5286.9344432930275,
+              "fy": 6436.7294203491747,
+              "u": 2066.913190361402,
+              "v": 1490.9237542711332
+            },
+            "distortion": {
+              "k1": -0.81587458793952339,
+              "k2": 4.966117500756952,
+              "k3": -15.515712445907718,
+              "p1": 0.0083402902525635918,
+              "p2": 0.0023071322396173675
+            }
+          }
+        }
+      },
+      "ch07": {
+        "delta_t": 0.0,
+        "x_range": {
+          "section1": {
+            "pixel_xmin": 0,
+            "pixel_xmax": 4000,
+            "world_xmin": 0.0,
+            "world_xmax": 101.0
+          }
+        },
+        "section": {
+          "section1": {
+            "rotation": {
+              "alpha": -0.88622206506926127,
+              "beta": -0.30401508628645024,
+              "gamma": -0.57900073347389969
+            },
+            "translation": {
+              "tx": -37.296729306331464,
+              "ty": -28.479697179019443,
+              "tz": 75.401493960457245
+            },
+            "intrinsic": {
+              "fx": 4240.6569998937912,
+              "fy": 4345.2587857185263,
+              "u": 1804.301938445612,
+              "v": 2193.924594813343
+            },
+            "distortion": {
+              "k1": -0.38036212233495575,
+              "k2": 0.15195348179991386,
+              "k3": -0.030071552733693583,
+              "p1": -0.045181561443046837,
+              "p2": 0.0033631667619002091
+            }
+          }
+        }
+      }
+    },
+    "data": [
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "7",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2933.5076708507672,
+        "image_y": 349.49442119944212,
+        "world_x": 50.594907979895,
+        "world_y": 32.7096981395333,
+        "channel": "ch01",
+        "action": "HandSupport",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 1,
+        "action_time": 0.0
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "7",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2937.6569037656905,
+        "image_y": 353.6436541143654,
+        "world_x": 50.69133778978015,
+        "world_y": 33.175777479654577,
+        "channel": "ch01",
+        "action": "PassSucceeded",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 1,
+        "action_time": 0.71935019999999994
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3721.8619246861927,
+        "image_y": 390.98675034867506,
+        "world_x": 66.56011429060338,
+        "world_y": 37.401493119225812,
+        "channel": "ch01",
+        "action": "CatchSucceeded",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 2,
+        "action_time": 1.3862968
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3522.6987447698743,
+        "image_y": 374.3898186889819,
+        "world_x": 62.642454396415786,
+        "world_y": 35.887128362498693,
+        "channel": "ch01",
+        "action": "PassSucceeded",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 2,
+        "action_time": 3.9867087
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "5",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3385.7740585774059,
+        "image_y": 278.95746164574615,
+        "world_x": 61.805860376129068,
+        "world_y": 23.733896704973326,
+        "channel": "ch01",
+        "action": "CatchSucceeded",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 3,
+        "action_time": 4.7030445
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "5",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3194.9093444909345,
+        "image_y": 254.06206415620642,
+        "world_x": 57.278049605511917,
+        "world_y": 20.293780205699004,
+        "channel": "ch01",
+        "action": "PassSucceeded",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 3,
+        "action_time": 8.5057288
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3024.7907949790797,
+        "image_y": 320.44979079497909,
+        "world_x": 52.561996948248122,
+        "world_y": 30.222987349451458,
+        "channel": "ch01",
+        "action": "CatchSucceeded",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 4,
+        "action_time": 9.4320731
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3087.0292887029291,
+        "image_y": 308.00209205020923,
+        "world_x": 54.032147872455646,
+        "world_y": 28.79236374239181,
+        "channel": "ch01",
+        "action": "PassFailed",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 4,
+        "action_time": 10.3881611
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "7",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2514.4351464435149,
+        "image_y": 295.55439330543936,
+        "world_x": 39.103550377366368,
+        "world_y": 22.67281583222438,
+        "channel": "ch01",
+        "action": "Break2",
+        "isHand": true,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 5,
+        "action_time": 11.764942
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2904.4630404463041,
+        "image_y": 320.44979079497909,
+        "world_x": 49.877584139853582,
+        "world_y": 29.265455927299282,
+        "channel": "ch01",
+        "action": "HandLose",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 6,
+        "action_time": 12.995389099999999
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2901.2308973062968,
+        "image_y": 314.99821609086047,
+        "world_x": 49.786673958650127,
+        "world_y": 28.598802659264983,
+        "channel": "ch01",
+        "action": "PassFailed",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 6,
+        "action_time": 12.995389099999999
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "10",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2838.7940774216563,
+        "image_y": 290.02348813700428,
+        "world_x": 48.152127193569356,
+        "world_y": 24.922796834266705,
+        "channel": "ch01",
+        "action": "Break2",
+        "isHand": true,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 7,
+        "action_time": 13.468879099999999
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3021.9420824166018,
+        "image_y": 277.53612416007616,
+        "world_x": 52.561523296909414,
+        "world_y": 25.098691929955017,
+        "channel": "ch01",
+        "action": "HandLose",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 8,
+        "action_time": 15.354547
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3017.7796277576258,
+        "image_y": 277.53612416007616,
+        "world_x": 52.4662649284877,
+        "world_y": 25.057454427400437,
+        "channel": "ch01",
+        "action": "PassSucceeded",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 8,
+        "action_time": 15.354547
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "2",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3421.5377296783013,
+        "image_y": 327.48558006778859,
+        "world_x": 61.467192097056817,
+        "world_y": 30.581367590467902,
+        "channel": "ch01",
+        "action": "CatchSucceeded",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 9,
+        "action_time": 17.5728354
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "2",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3371.5882737705888,
+        "image_y": 344.13539870369272,
+        "world_x": 59.956169622830672,
+        "world_y": 32.718360103613982,
+        "channel": "ch01",
+        "action": "PassFailed",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 9,
+        "action_time": 17.7378444
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "0",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2738.8951656062313,
+        "image_y": 377.435035975501,
+        "world_x": 46.291804703720977,
+        "world_y": 34.546523229217946,
+        "channel": "ch01",
+        "action": "Break2",
+        "isHand": true,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 10,
+        "action_time": 19.2504557
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2876.2561693524408,
+        "image_y": 439.87185586014152,
+        "world_x": 49.579095693784041,
+        "world_y": 41.1723122910064,
+        "channel": "ch01",
+        "action": "HandSupport",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 11,
+        "action_time": 20.461321299999998
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2872.0937146934648,
+        "image_y": 444.03431051911758,
+        "world_x": 49.506745535316604,
+        "world_y": 41.520820329208568,
+        "channel": "ch01",
+        "action": "PassSucceeded",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 11,
+        "action_time": 20.461321299999998
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "10",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2859.6063507165363,
+        "image_y": 310.83576143188441,
+        "world_x": 48.774677480973764,
+        "world_y": 27.749808772797721,
+        "channel": "ch01",
+        "action": "CatchSucceeded",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 12,
+        "action_time": 22.688931099999998
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "10",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2817.9818041267763,
+        "image_y": 344.13539870369272,
+        "world_x": 47.939838540182066,
+        "world_y": 31.345733380088049,
+        "channel": "ch01",
+        "action": "PassSucceeded",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 12,
+        "action_time": 24.3036076
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "3",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3563.0611880834867,
+        "image_y": 302.51085211393234,
+        "world_x": 65.741645383735673,
+        "world_y": 26.805407351280138,
+        "channel": "ch01",
+        "action": "CatchFailed",
+        "isHand": true,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 13,
+        "action_time": 25.1556677
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "3",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3754.5341023963842,
+        "image_y": 285.86103347802822,
+        "world_x": 71.815500992683255,
+        "world_y": 23.577263843126204,
+        "channel": "ch01",
+        "action": "HandLose",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 14,
+        "action_time": 26.1796899
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "0",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3758.6965570553602,
+        "image_y": 290.02348813700428,
+        "world_x": 71.709885991266916,
+        "world_y": 24.252916411217115,
+        "channel": "ch01",
+        "action": "PassFailed",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 14,
+        "action_time": 26.1796899
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "10",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3117.6785395730508,
+        "image_y": 281.69857881905216,
+        "world_x": 54.96273785991589,
+        "world_y": 25.026936982850653,
+        "channel": "ch01",
+        "action": "Break2",
+        "isHand": true,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 15,
+        "action_time": 28.3492216
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3250.8770886602838,
+        "image_y": 369.11012665754896,
+        "world_x": 56.96887143541111,
+        "world_y": 35.656437887596148,
+        "channel": "ch01",
+        "action": "HandSupport",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 16,
+        "action_time": 29.1897426
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3217.5774513884758,
+        "image_y": 394.08485461140515,
+        "world_x": 56.031158399001605,
+        "world_y": 38.158970835849736,
+        "channel": "ch01",
+        "action": "PassSucceeded",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 16,
+        "action_time": 30.3863064
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "3",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3729.5593744425278,
+        "image_y": 327.48558006778859,
+        "world_x": 69.102786052821358,
+        "world_y": 29.918429832006883,
+        "channel": "ch01",
+        "action": "CatchFailed",
+        "isHand": true,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 17,
+        "action_time": 31.773495399999998
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "10",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3421.5377296783013,
+        "image_y": 260.88630552417203,
+        "world_x": 63.326391296814968,
+        "world_y": 20.556083097891083,
+        "channel": "ch01",
+        "action": "HandSupport",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 18,
+        "action_time": 33.2987138
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "5",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3508.9492775167982,
+        "image_y": 273.3736695011001,
+        "world_x": 65.3453932837789,
+        "world_y": 22.373740595595674,
+        "channel": "ch01",
+        "action": "Steal",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": true,
+        "possessChangeNums": 19,
+        "action_time": 33.7851815
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "5",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3442.3500029731813,
+        "image_y": 285.86103347802822,
+        "world_x": 63.1068735386815,
+        "world_y": 24.638327817854258,
+        "channel": "ch01",
+        "action": "PassSucceeded",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 19,
+        "action_time": 34.6290681
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "9",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3138.4908128679308,
+        "image_y": 339.97294404471671,
+        "world_x": 54.9149033690389,
+        "world_y": 32.624492077587014,
+        "channel": "ch01",
+        "action": "CatchSucceeded",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 20,
+        "action_time": 35.4713376
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "9",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3138.4908128679308,
+        "image_y": 339.97294404471671,
+        "world_x": 54.9149033690389,
+        "world_y": 32.624492077587014,
+        "channel": "ch01",
+        "action": "PassFailed",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 20,
+        "action_time": 35.4713376
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "7",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2797.1695308318958,
+        "image_y": 310.83576143188441,
+        "world_x": 47.221323078929885,
+        "world_y": 27.221317092073612,
+        "channel": "ch01",
+        "action": "Break2",
+        "isHand": true,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 21,
+        "action_time": 36.524871499999996
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "2",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3742.0467384194562,
+        "image_y": 373.27258131652496,
+        "world_x": 67.617770745538223,
+        "world_y": 35.496684467314253,
+        "channel": "ch01",
+        "action": "HandLose",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 22,
+        "action_time": 38.4739262
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "2",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 3725.3969197835522,
+        "image_y": 385.75994529345309,
+        "world_x": 66.809114955778455,
+        "world_y": 36.857668523940283,
+        "channel": "ch01",
+        "action": "PassSucceeded",
+        "isHand": false,
+        "isPass": true,
+        "isGetFromLast": false,
+        "possessChangeNums": 22,
+        "action_time": 38.8529605
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "7",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2455.8482487958609,
+        "image_y": 518.95849438068626,
+        "world_x": 41.745374045805789,
+        "world_y": 46.763256366273012,
+        "channel": "ch01",
+        "action": "CatchSucceeded",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 23,
+        "action_time": 41.4184494
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "0",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 1939.7038710828326,
+        "image_y": 568.90795028839864,
+        "world_x": 32.2199036049309,
+        "world_y": 49.730572540915574,
+        "channel": "ch01",
+        "action": "Steal",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": true,
+        "possessChangeNums": 24,
+        "action_time": 43.0817146
+      },
+      {
+        "team": "away_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "5",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 1677.4692275673424,
+        "image_y": 706.26895403460787,
+        "world_x": 31.656607395901567,
+        "world_y": 57.2807870740669,
+        "channel": "ch01",
+        "action": "Steal",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": true,
+        "possessChangeNums": 25,
+        "action_time": 44.352795799999996
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 1098.8880299696734,
+        "image_y": 831.14259380388887,
+        "world_x": 26.304170825223864,
+        "world_y": 62.709897226213791,
+        "channel": "ch01",
+        "action": "Break",
+        "isHand": true,
+        "isPass": true,
+        "isGetFromLast": true,
+        "possessChangeNums": 26,
+        "action_time": 46.761102099999995
+      },
+      {
+        "team": "home_team",
+        "teamType": "Home",
+        "teamID": null,
+        "num": "1",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 1802.3428673366234,
+        "image_y": 993.47832550395424,
+        "world_x": 39.20267541869547,
+        "world_y": 65.738863407500546,
+        "channel": "ch01",
+        "action": "HandLose",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 27,
+        "action_time": 49.5204387
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 1552.5955877980612,
+        "image_y": 993.47832550395424,
+        "world_x": 36.332853635162429,
+        "world_y": 65.935181325014042,
+        "channel": "ch01",
+        "action": "Break",
+        "isHand": true,
+        "isPass": true,
+        "isGetFromLast": true,
+        "possessChangeNums": 28,
+        "action_time": 50.2650449
+      },
+      {
+        "team": "away_team",
+        "teamType": "Away",
+        "teamID": null,
+        "num": "4",
+        "name": null,
+        "PlayerID": null,
+        "IsStarting": null,
+        "IsPlayerkeeper": null,
+        "image_x": 2693.1081643574953,
+        "image_y": 1205.7635131117322,
+        "world_x": 48.958273783618161,
+        "world_y": 67.95593628242726,
+        "channel": "ch01",
+        "action": "HandAgain",
+        "isHand": true,
+        "isPass": false,
+        "isGetFromLast": false,
+        "possessChangeNums": 28,
+        "action_time": 57.7108487
+      }
+    ]
+  }
